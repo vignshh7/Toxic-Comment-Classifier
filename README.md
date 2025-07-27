@@ -146,7 +146,8 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## 🙋‍♂️ About the Author
 
-@vignshh7
+Created by [@vignshh7](https://github.com/vignshh7)  
+Aspiring Software Engineer | Tech Enthusiast | Always learning 🚀
 
 **Connect with me:**
 - 📧 Email: your.email@example.com
